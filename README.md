@@ -46,3 +46,6 @@ Summarizes testing outcomes, including:
 - Passed/Failed test cases
 - Bugs and issues found
 - Fixes and retests
+- 
+![Alt text](test_report01.png)
+![Alt text](test_report.png)
